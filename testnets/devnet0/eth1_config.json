@@ -8,7 +8,9 @@
     "byzantiumBlock": 0,
     "constantinopleBlock": 0,
     "petersburgBlock": 0,
-    "istanbulBlock": 0
+    "istanbulBlock": 0,
+    "berlinBlock": 0,
+    "catalystBlock": 0
   },
   "alloc": {
     "0x9f7Bb3bD8C447ae57FF76961c38089BbF5DDf714": {
