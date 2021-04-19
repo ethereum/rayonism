@@ -9,7 +9,7 @@
 ## Resources
 
 - [Rayonism.io](https://rayonism.io): Project description and F.A.Q.
-- [Mergenet tutorial](https://github.com/protolambda/mergenet-tutorial): How to configure your own mergnet, step by step
+- [Mergenet tutorial](https://github.com/protolambda/mergenet-tutorial): How to configure your own mergenet, step by step
 - [Merge Devnet setup guide](https://notes.ethereum.org/@protolambda/merge-devnet-setup-guide): High-level testnet configuration description
 - [Merge testnet 0](https://notes.ethereum.org/@n0ble/rayonism-mergenet-0): Specifics for first devnet
 - Shard node design doc (soon)
