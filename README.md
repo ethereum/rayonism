@@ -11,4 +11,4 @@
 
 ## Testnets
 
-- [Merge devnet 0](./testnets/devnet0)
+- [Example devnet](testnets/example)

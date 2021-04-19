@@ -1,10 +1,9 @@
-# Merge devnet 0
+# Example devnet
 
-The very start of Rayonism, an experimental short-lived testnet.
 The merge is active from genesis; this testnet is to test the Eth1-Eth2 node communication,
 and work on stability of the post-merge network.
 
-**This is configuration is unconfirmed, just for illustration now**
+**This is configuration is just for illustration**
 
 See configs. Summary:
 - 3 pre-funded application accounts. `100 million merge-ETH` each.
