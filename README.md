@@ -12,3 +12,7 @@
 ## Testnets
 
 - [Example devnet](testnets/example)
+
+## License
+
+CC0 1.0 Universal, see [`LICENSE`] file.
