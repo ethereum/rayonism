@@ -159,7 +159,7 @@ Future updates of the beacon chain may introduce an `Union` with `OpaqueTransact
 - `timestamp`: `QUANTITY` - unix timestamp of the block.
 - `receiptsRoot`: `DATA`, 32 Bytes - the root of the receipts trie of the block.
 - `logsBloom`: `DATA`, 256 Bytes - the bloom filter for the logs of the block.
-- `transactions`: Array of encoded transactions, each transaction is a byte list (`DATA`), representing `TransactionType || TransactionPayload` as defined in [EIP 2718](https://eips.ethereum.org/EIPS/eip-2718)
+- `transactions`: Array of encoded transactions, each transaction is a byte list (`DATA`), representing `TransactionType || TransactionPayload` or `LegacyTransaction` as defined in [EIP 2718](https://eips.ethereum.org/EIPS/eip-2718)
 
 ##### Returns
 
