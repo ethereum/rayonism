@@ -1,3 +1,9 @@
+# Deprecated
+
+**For the latest Merge work, see [`ethereum/consensus-specs`](github.com/ethereum/consensus-specs) and [`ethereum/execution-specs`](github.com/ethereum/ethereum/execution-specs)**
+
+-----
+
 # Rayonism
 
 ## Specs
@@ -23,4 +29,4 @@
 
 ## License
 
-CC0 1.0 Universal, see [`LICENSE`] file.
+CC0 1.0 Universal, see [`LICENSE`](./LICENSE) file.
